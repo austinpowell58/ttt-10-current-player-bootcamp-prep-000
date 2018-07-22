@@ -1,0 +1,1 @@
+def currrent_player(board)
