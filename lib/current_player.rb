@@ -1,3 +1,3 @@
-def currrent_player(board)
+def turn_count(board)
   counter = 0
   if 
